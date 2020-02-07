@@ -22,6 +22,7 @@ class Strings
                     @arr3.push(x)
                 else 
                     @arr4.push(x)
+                
             end    
         end
     end
